@@ -17,9 +17,9 @@ I’m a passionate **Software Engineer** with a strong background in building fu
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🏗️ system-design](https://github.com/lamngockhuong/system-design) | System Design diagrams & docs for modern backend | `Mermaid.js`, `Markdown`, `Architecture` |
-| [📦 utilux](https://github.com/lamngockhuong/utilux) | CLI tools to manage utilities across Linux distros | `Shell Script`, `Makefile`, `Docker` |
-| [🌐 dev.ngockhuong.com](https://dev.ngockhuong.com) | My personal tech blog & note archive | `Jekyll`, `Markdown` |
+| 🏗️ [system-design](https://github.com/lamngockhuong/system-design) | System Design diagrams & docs for modern backend | `Mermaid.js`, `Markdown`, `Architecture` |
+| 📦 [utilux](https://github.com/lamngockhuong/utilux) | CLI tools to manage utilities across Linux distros | `Shell Script`, `Makefile`, `Docker` |
+| 🌐 [dev.ngockhuong.com](https://dev.ngockhuong.com) | My personal tech blog & note archive | `Jekyll`, `Markdown` |
 
 ---
 
